@@ -1,0 +1,39 @@
+body {
+    background-color: #000000;
+    color: #ddd;
+}
+
+main {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+    color: #fff;
+    margin:0;
+}
+form{
+    margin-top: 20px;
+}
+form input {
+    width: 100%;
+    background-color: transparent;
+    color: #ddd;
+    border: 2px solid #111f2d;
+    padding: 10px 1px;
+    border-radius: 5px;
+}
+
+form div.information{
+    display : flex;
+    margin-bottom: 4px;
+}
+form button{
+    width: 102%;
+    margin-top : 5px;
+    border:0;
+    border-radius:5px;
+    padding : 10px;
+    background-color: #ddd;
+}
